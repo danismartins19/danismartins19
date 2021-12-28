@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como técnico de suporte...
+- 🔭 Analista de Sistemas / Técnico de Suporte.
 - 🌱 Estudando TypeScript e React...
 - 📫 Email: danidiamoo1@gmail.com
 
