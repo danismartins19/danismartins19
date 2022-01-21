@@ -3,7 +3,7 @@
 
 
 - 🔭 Analista de Sistemas / Técnico de Suporte.
-- 🌱 Estudando TypeScript e React...
+- 🌱 Estudando React / Typescript / Java / Spring
 - 📫 Email: danidiamoo1@gmail.com
 
 <div>
