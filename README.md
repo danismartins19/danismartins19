@@ -3,7 +3,7 @@
 
 
 - 🔭 Analista de Sistemas / Técnico de Suporte.
-- 🌱 Estudando React / Typescript / Java / Spring
+- 🌱 Estudando React / Typescript / Java / Spring / Node.js
 - 📫 Email: danidiamoo1@gmail.com
 
 <div>
@@ -23,6 +23,7 @@
   <img align="center" alt="MySQL Skill Daniel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Java Skill Daniel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring Skill Daniel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Node.js Skill Daniel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
 
 </div>
