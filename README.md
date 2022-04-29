@@ -3,7 +3,7 @@
 
 
 - 🔭 Analista de Sistemas / Técnico de Suporte.
-- 🌱 Estudando React / Typescript / Java / Spring / Node.js
+- 🌱 Estudando React.JS / Typescript / Styled Components / Node.JS / Prisma / MySQL
 - 📫 Email: danidiamoo1@gmail.com
 
 <div>
