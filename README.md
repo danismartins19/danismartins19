@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Analista de Sistemas / Técnico de Suporte.
-- 🌱 Estudando React.JS / Typescript / Styled Components / Node.JS / Prisma / MySQL
+- 🔭 Buscando me tornar um Fullstack Developer.
+- 🌱 Estudando React.JS / Typescript / Styled Components / Node.JS / Prisma / MySQL / SQLite
 - 📫 Email: danidiamoo1@gmail.com
 
 <div>
