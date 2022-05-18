@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Buscando me tornar um Fullstack Developer.
+- 🔭 Dev Backend Node.JS.
 - 🌱 Estudando React.JS / Typescript / Styled Components / Node.JS / Prisma / MySQL / SQLite
 - 📫 Email: danidiamoo1@gmail.com
 
