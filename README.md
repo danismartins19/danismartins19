@@ -38,3 +38,8 @@
   </div>
     
 ![Snake animation](https://github.com/danismartins19/danismartins19/blob/output/github-contribution-grid-snake.svg)
+  
+  ## Total de visitas no meu perfil <br>
+ <p align="center"> 
+   <img target="_blank" alingn="center" src="https://profile-counter.glitch.me/danismartins19/count.svg" />
+ </p>
