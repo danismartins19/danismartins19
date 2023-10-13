@@ -1,7 +1,7 @@
 ### Olá, eu sou o Daniel Martins
 
 
-- 🌱 Estudando React.JS / Typescript / Styled Components / Node.JS / Prisma / MySQL / SQLite
+- 🌱 Estudando React.JS / Typescript / Java / Spring / MySQL
 - 📫 Email: danidiamoo1@gmail.com
 
 <div>
